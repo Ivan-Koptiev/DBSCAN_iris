@@ -46,7 +46,7 @@ pip install numpy pandas matplotlib scikit-learn seaborn
 ## Usage
 
 ```bash
-git clone "https://github.com/Sat1x/DBSCAN_iris"
+git clone "https://github.com/Ivan-Koptiev/DBSCAN_iris"
 ```
 
 Simply run the script to perform clustering on the Iris dataset:
